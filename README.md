@@ -17,8 +17,9 @@ Useful information in computational neuroscience.
 | Society for Neuroscience                    | Seminar          | [*link*](https://www.youtube.com/@sfnvideo/videos)           | **Free** videos on YouTube.                    | Advanced                 |
 | CCCN, 2021                                  | Seminar          | *[link](https://space.bilibili.com/1959635782?spm_id_from=333.337.0.0)* | **Free** videos on bilibili.                   | Advanced                 |
 | Tianyuan (2020-2021)                        | Seminar          | *[link](https://space.bilibili.com/508342591?spm_id_from=333.337.search-card.all.click)* | **Free** videos on bilibili.                   | Advanced                 |
-| Personal Website of Cosma                   | Personal Website | *[link](http://bactra.org/)*                                 | **Free** blogs                                 | Advanced                 |
-| Personal Website of Lilian Weng             | Personal Website | *[link](https://lilianweng.github.io/)*                      | **Free** blogs                                 | Advanced                 |
+| Cosma                                       | Personal Website | *[link](http://bactra.org/)*                                 | **Free** blogs                                 | Advanced                 |
+| Lilian Weng                                 | Personal Website | *[link](https://lilianweng.github.io/)*                      | **Free** blogs                                 | Advanced                 |
+| Markus Meister                              | Personal Website | *[link](https://markusmeister.com/)*                         | **Free** blogs                                 | Advanced                 |
 | Guide to applying for a PhD in neuroscience | Personal Website | *[link](https://brainphd-cn.github.io/handbook/)*            | How to **apply for a PhD** in neuroscience?    | **Beginner** or Advanced |
 | Journal Club of Wen Lab                     | JC Website       | *[link](https://cneuroustc.github.io/)*                      | Carefully selected papers **in recent years**. | Advanced                 |
 | Journal Club of Pillow Lab                  | JC Website       | *[link](https://pillowlab.wordpress.com/)*                   | Carefully selected papers **in recent years**. | Advanced                 |
